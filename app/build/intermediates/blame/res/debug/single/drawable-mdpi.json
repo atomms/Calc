@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/build/intermediates/res/merged/debug/drawable-mdpi/multiply.png",
+        "source": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/src/main/res/drawable-mdpi/multiply.png"
+    },
+    {
+        "merged": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
+        "source": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/src/main/res/drawable-mdpi/add.png"
+    }
+]

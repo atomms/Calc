@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/home/ernesto/Documentos/MisDocumentos/UEM/DI/PI/2014-15/Calc/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            }
+        ]
+    }
+]
